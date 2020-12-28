@@ -1,2 +1,4 @@
-www.splashdamage.com
-www.etlegacy.com
+splashdamage.com
+etlegacy.com
+*.splashdamage.com
+*.etlegacy.com
