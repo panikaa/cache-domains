@@ -131,6 +131,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "etlegacy",
+			"description": "CDN for etlegacy",
+			"domain_files": ["etlegacy.txt"]
 		}
 	]
 }
